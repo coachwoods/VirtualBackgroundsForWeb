@@ -31,6 +31,9 @@ const photos = [
   {
     src: "https://images.unsplash.com/photo-1465865523598-a834aac5d3fa?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&w=400&fit=crop",
   },  
+   {
+    src: "https://images.app.goo.gl/WD6W8PPkUTF5CLNMA",
+  }
 ];
 
 
